@@ -1,0 +1,11 @@
+C:\Users\Ale\Desktop\AgenciaViajes\bin\Debug\AgenciaViajes.exe.config
+C:\Users\Ale\Desktop\AgenciaViajes\bin\Debug\AgenciaViajes.exe
+C:\Users\Ale\Desktop\AgenciaViajes\bin\Debug\AgenciaViajes.pdb
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.Form1.resources
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.Properties.Resources.resources
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.csproj.GenerateResource.cache
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.exe
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.pdb
+C:\Users\Ale\Desktop\AgenciaViajes\obj\Debug\AgenciaViajes.exe.config
